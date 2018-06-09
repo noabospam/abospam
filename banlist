@@ -1,0 +1,9 @@
+^(pkclan\.net|alec768|desertkaiju|alexmanalo76|cybertuna94|spikedmauler|sqrlyjack|tinyowl94|khongthong94|scayum|icecreamkatana|rulus1|dr\.exchanger|zhaodong1982|lestraw|cryptoexchangenet|enzo12lbc|andvid72|esthershibin|intercomcorp|investingmarzolave|btcx01|bobross3215)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^(allencontador|50freesms|thehappylittlebit)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^ryan(\+[a-z0-9]+)?@londonlinkpartners\.co\.uk$(ABOSPAM)?
+^info(\+[a-z0-9]+)?@(bitbroker\.co\.uk|btcsolutions\.ca)$(ABOSPAM)?
+^support(\+[a-z0-9]+)?@(coinexchange\.io|coindirect\.com|cryptopay\.me|coinexchange\.io|bitflyer\.com|quickbitcoin\.co\.uk|bitcoin\.com\.au|vaultoro\.com|btc-alpha\.com)$(ABOSPAM)?
+^(snekd|opticbit)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
+^(gbbrt|ventas-ventronic)(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
+^knyazev083(\+[a-z0-9]+)?@mail\.ru$(ABOSPAM)?
+^iwannabekyle2(\+[a-z0-9]+)?@netzero\.com$(ABOSPAM)?
