@@ -24,12 +24,12 @@ mailman's withlist command.
 Copy it to a location in sys.path, mailman's bin directory seems to be a
 reasonable place, at least on Debian 8 "Jessie" this should work:
 
-  cp update_banlist.py /usr/lib/mailman/bin
+  cp update_banlist.py /usr/lib/mailman/bin/
 
 After this you can start it via withlist:
 
   withlist --lock --quiet --run update_banlist <listname> <banlist file>
 
-Do let it operate on all the mailing lists on your server you can run it as:
+To let it operate on all the mailing lists on your server you can run it as:
 
   withlist --lock --quiet --run update_banlist --all <banlist file>
