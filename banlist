@@ -2,7 +2,6 @@
 ^(allencontador|50freesms|thehappylittlebit)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^ryan(\+[a-z0-9]+)?@londonlinkpartners\.co\.uk$(ABOSPAM)?
 ^info(\+[a-z0-9]+)?@(bitbroker\.co\.uk|btcsolutions\.ca)$(ABOSPAM)?
-^support(\+[a-z0-9]+)?@(coinexchange\.io|coindirect\.com|cryptopay\.me|coinexchange\.io|bitflyer\.com|quickbitcoin\.co\.uk|bitcoin\.com\.au|vaultoro\.com|btc-alpha\.com)$(ABOSPAM)?
 ^(snekd|opticbit)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
 ^(gbbrt|ventas-ventronic)(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
 ^knyazev083(\+[a-z0-9]+)?@mail\.ru$(ABOSPAM)?
@@ -13,3 +12,8 @@
 ^korsario(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
 ^opsgame(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
 ^tyeman(\+[a-z0-9]+)?@tyemanbtc\.com$(ABOSPAM)?
+^dpo(\+[a-z0-9]+)?@electrocoin\.hr$(ABOSPAM)?
+^kc_huang(\+[a-z0-9]+)?@oceaniccloud\.com$(ABOSPAM)?
+^support(\+[a-z0-9]+)?@(coincash\.eu|coinexchange\.io|coindirect\.com|cryptopay\.me|coinexchange\.io|bitflyer\.com|quickbitcoin\.co\.uk|bitcoin\.com\.au|vaultoro\.com|btc-alpha\.com)$(ABOSPAM)?
+^cryptomarketplace(\+[a-z0-9]+)?@pm\.me$(ABOSPAM)?
+^info+zubvx(\+[a-z0-9]+)?@bitcoin-mjenjacnica\.hr$(ABOSPAM)?
