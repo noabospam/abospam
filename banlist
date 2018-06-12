@@ -22,3 +22,4 @@
 ^robert(\+[a-z0-9]+)?@cryptoexpert\.pl$(ABOSPAM)?
 ^ojfibdy(\+[a-z0-9]+)?@saleams\.eu$(ABOSPAM)?
 ^paynote(\+[a-z0-9]+)?@jabber\.no$(ABOSPAM)?
+^barone(\+[a-z0-9]+)?@cryptoforex\.es$(ABOSPAM)?
