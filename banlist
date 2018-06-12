@@ -29,4 +29,12 @@
 ^eorpsy(\+[a-z0-9]+)?@mail\.com$(ABOSPAM)?
 ^kyzer(\+[a-z0-9]+)?@tradebit\.ca$(ABOSPAM)?
 ^pagos(\+[a-z0-9]+)?@cambios\.ec$(ABOSPAM)?
-^(johnnylbc111|drcitrino|galbin2011|criptoexchance)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^kaizarbtc(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
+^(nunogondomar|johnnylbc111|drcitrino|galbin2011|criptoexchance)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^king(\+[a-z0-9]+)?@kingshit\.me$(ABOSPAM)?
+^contact(\+[a-z0-9]+)?@digitalcoin\.es$(ABOSPAM)?
+^kaizarbtc(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
+^18006777619(\+[a-z0-9]+)?@163\.com$(ABOSPAM)?
+^info(\+[a-z0-9]+)?@100bitcoins\.com$(ABOSPAM)?
+^pablo_pezzali(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
+^support(\+[a-z0-9]+)?@maine-bitcoin\.com$(ABOSPAM)?
