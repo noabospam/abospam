@@ -21,3 +21,4 @@
 ^(lorenzomezzadri\.btc|fasttransferbtc|smangundhlalbcbitcoinpayments|fairbtc2014|zyjtc2046)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^robert(\+[a-z0-9]+)?@cryptoexpert\.pl$(ABOSPAM)?
 ^ojfibdy(\+[a-z0-9]+)?@saleams\.eu$(ABOSPAM)?
+^paynote(\+[a-z0-9]+)?@jabber\.no$(ABOSPAM)?
