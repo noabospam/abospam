@@ -26,5 +26,7 @@
 ^owner(\+[a-z0-9]+)?@bitgoldwallet\.com$(ABOSPAM)?
 ^admin(\+[a-z0-9]+)?@buyandsellbitcoinsaustralia\.com$(ABOSPAM)?
 ^tefl0ncrypto(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
-^(drcitrino|galbin2011|criptoexchance)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^eorpsy(\+[a-z0-9]+)?@mail\.com$(ABOSPAM)?
+^kyzer(\+[a-z0-9]+)?@tradebit\.ca$(ABOSPAM)?
+^pagos(\+[a-z0-9]+)?@cambios\.ec$(ABOSPAM)?
+^(johnnylbc111|drcitrino|galbin2011|criptoexchance)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
