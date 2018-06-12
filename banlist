@@ -16,6 +16,8 @@
 ^kc_huang(\+[a-z0-9]+)?@oceaniccloud\.com$(ABOSPAM)?
 ^support(\+[a-z0-9]+)?@(coincash\.eu|coinexchange\.io|coindirect\.com|cryptopay\.me|coinexchange\.io|bitflyer\.com|quickbitcoin\.co\.uk|bitcoin\.com\.au|vaultoro\.com|btc-alpha\.com)$(ABOSPAM)?
 ^cryptomarketplace(\+[a-z0-9]+)?@pm\.me$(ABOSPAM)?
-^info(\+[a-z0-9]+)?@bitcoin-mjenjacnica\.hr$(ABOSPAM)?
-^zyjtc2046(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^info(\+[a-z0-9]+)?@(bit-changer\.net|bitcoin-mjenjacnica\.hr|kooin\.it)$(ABOSPAM)?
+^kantor(\+[a-z0-9]+)?@flyingatom\.com$(ABOSPAM)?
+^(fasttransferbtc|smangundhlalbcbitcoinpayments|fairbtc2014|zyjtc2046)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^robert(\+[a-z0-9]+)?@cryptoexpert\.pl$(ABOSPAM)?
+^ojfibdy(\+[a-z0-9]+)?@saleams\.eu$(ABOSPAM)?
