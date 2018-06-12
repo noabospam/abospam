@@ -18,6 +18,6 @@
 ^cryptomarketplace(\+[a-z0-9]+)?@pm\.me$(ABOSPAM)?
 ^info(\+[a-z0-9]+)?@(bit-changer\.net|bitcoin-mjenjacnica\.hr|kooin\.it)$(ABOSPAM)?
 ^kantor(\+[a-z0-9]+)?@flyingatom\.com$(ABOSPAM)?
-^(fasttransferbtc|smangundhlalbcbitcoinpayments|fairbtc2014|zyjtc2046)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^(lorenzomezzadri\.btc|fasttransferbtc|smangundhlalbcbitcoinpayments|fairbtc2014|zyjtc2046)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^robert(\+[a-z0-9]+)?@cryptoexpert\.pl$(ABOSPAM)?
 ^ojfibdy(\+[a-z0-9]+)?@saleams\.eu$(ABOSPAM)?
