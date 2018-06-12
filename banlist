@@ -23,7 +23,8 @@
 ^ojfibdy(\+[a-z0-9]+)?@saleams\.eu$(ABOSPAM)?
 ^paynote(\+[a-z0-9]+)?@jabber\.no$(ABOSPAM)?
 ^barone(\+[a-z0-9]+)?@cryptoforex\.es$(ABOSPAM)?
-^(drcitrino|eorpsy|galbin2011|criptoexchance)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^owner(\+[a-z0-9]+)?@bitgoldwallet\.com$(ABOSPAM)?
 ^admin(\+[a-z0-9]+)?@buyandsellbitcoinsaustralia\.com$(ABOSPAM)?
 ^tefl0ncrypto(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
+^(drcitrino|galbin2011|criptoexchance)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^eorpsy(\+[a-z0-9]+)?@mail\.com$(ABOSPAM)?
