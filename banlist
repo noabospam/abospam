@@ -44,4 +44,3 @@
 ^paulred(\+[a-z0-9]+)?@email\.it$(ABOSPAM)?
 ^(s7g7j7|oddjuice)(\+[a-z0-9]+)?@yahoo\.com$(ABOSPAM)?
 ^frederikkelter(\+[a-z0-9]+)?@live\.com$(ABOSPAM)?
-^ydyaxmm(\+[a-z0-9]+)?@zeromina\.eu$(ABOSPAM)?
