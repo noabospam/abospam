@@ -38,8 +38,10 @@
 ^info(\+[a-z0-9]+)?@100bitcoins\.com$(ABOSPAM)?
 ^pablo_pezzali(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
 ^support(\+[a-z0-9]+)?@maine-bitcoin\.com$(ABOSPAM)?
-^(dickwad|spliffy)@cock\.li$(ABOSPAM)?
+^(dickwad|spliffy)(\+[a-z0-9]+)?@cock\.li$(ABOSPAM)?
 ^(glacierponi|yllwdg|nasamok2|oddjuice11|hanakage777|drexchanger|pkclannet)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
-^spikedmauler@yahoo\.com\.ph$(ABOSPAM)?
-^paulred@email\.it$(ABOSPAM)?
-^(s7g7j7|oddjuice)@yahoo\.com$(ABOSPAM)?
+^spikedmauler(\+[a-z0-9]+)?@yahoo\.com\.ph$(ABOSPAM)?
+^paulred(\+[a-z0-9]+)?@email\.it$(ABOSPAM)?
+^(s7g7j7|oddjuice)(\+[a-z0-9]+)?@yahoo\.com$(ABOSPAM)?
+^frederikkelter(\+[a-z0-9]+)?@live\.com$(ABOSPAM)?
+^ydyaxmm(\+[a-z0-9]+)?@zeromina\.eu$(ABOSPAM)?
