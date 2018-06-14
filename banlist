@@ -48,4 +48,4 @@
 ^admin(\+[a-z0-9]+)?@virtacash\.com$(ABOSPAM)?
 ^ash(\+[a-z0-9]+)?@lhr\.net\.au$(ABOSPAM)?
 ^(shbitcoin|najsbullbtc)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
-^(sterlishshibin|alejoruge|hgaviria1)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^(livetradersa|sterlishshibin|alejoruge|hgaviria1)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
