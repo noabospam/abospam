@@ -40,10 +40,10 @@
 ^support(\+[a-z0-9]+)?@maine-bitcoin\.com$(ABOSPAM)?
 ^(dickwad|spliffy)(\+[a-z0-9]+)?@cock\.li$(ABOSPAM)?
 ^(glacierponi|yllwdg|nasamok2|oddjuice11|hanakage777|drexchanger|pkclannet)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
-^spikedmauler@yahoo\.com\.ph$(ABOSPAM)?
-^paulred@email\.it$(ABOSPAM)?
-^(s7g7j7|oddjuice)@yahoo\.com$(ABOSPAM)?
-^ty26hongkong@mailbox\.org$(ABOSPAM)?
-^admin@virtacash\.com$(ABOSPAM)?
-^ash@lhr\.net\.au$(ABOSPAM)?
-^frederikkelter@live\.com$(ABOSPAM)?
+^spikedmauler(\+[a-z0-9]+)?@yahoo\.com\.ph$(ABOSPAM)?
+^paulred(\+[a-z0-9]+)?@email\.it$(ABOSPAM)?
+^(s7g7j7|oddjuice)(\+[a-z0-9]+)?@yahoo\.com$(ABOSPAM)?
+^frederikkelter(\+[a-z0-9]+)?@live\.com$(ABOSPAM)?
+^ty26hongkong(\+[a-z0-9]+)?@mailbox\.org$(ABOSPAM)?
+^admin(\+[a-z0-9]+)?@virtacash\.com$(ABOSPAM)?
+^ash(\+[a-z0-9]+)?@lhr\.net\.au$(ABOSPAM)?
