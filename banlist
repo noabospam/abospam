@@ -47,7 +47,7 @@
 ^ty26hongkong(\+[a-z0-9]+)?@mailbox\.org$(ABOSPAM)?
 ^admin(\+[a-z0-9]+)?@virtacash\.com$(ABOSPAM)?
 ^ash(\+[a-z0-9]+)?@lhr\.net\.au$(ABOSPAM)?
-^(shbitcoin|najsbullbtc)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
 ^(livetradersa|sterlishshibin|alejoruge|hgaviria1)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^siphiwe(\+[a-z0-9]+)?@thecareerlink\.us$(ABOSPAM)?
 ^info(\+[a-z0-9]+)?@gescop\.co$(ABOSPAM)?
+^(btctw|shbitcoin|najsbullbtc)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
