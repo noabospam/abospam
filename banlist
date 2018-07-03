@@ -36,7 +36,6 @@
 ^kaizarbtc(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
 ^18006777619(\+[a-z0-9]+)?@163\.com$(ABOSPAM)?
 ^info(\+[a-z0-9]+)?@100bitcoins\.com$(ABOSPAM)?
-^pablo_pezzali(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
 ^support(\+[a-z0-9]+)?@maine-bitcoin\.com$(ABOSPAM)?
 ^(dickwad|spliffy)(\+[a-z0-9]+)?@cock\.li$(ABOSPAM)?
 ^(glacierponi|yllwdg|nasamok2|oddjuice11|hanakage777|drexchanger|pkclannet)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
@@ -51,3 +50,4 @@
 ^info(\+[a-z0-9]+)?@gescop\.co$(ABOSPAM)?
 ^(btctw|shbitcoin|najsbullbtc)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
 ^(q745824708|livetradersa|sterlishshibin|alejoruge|hgaviria1)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
+^(educast4|pablo_pezzali)(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
