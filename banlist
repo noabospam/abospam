@@ -51,3 +51,4 @@
 ^(btctw|shbitcoin|najsbullbtc)(\+[a-z0-9]+)?@protonmail\.com$(ABOSPAM)?
 ^(q745824708|livetradersa|sterlishshibin|alejoruge|hgaviria1)(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
 ^(educast4|pablo_pezzali)(\+[a-z0-9]+)?@hotmail\.com$(ABOSPAM)?
+^crybleat(\+[a-z0-9]+)?@gmail\.com$(ABOSPAM)?
