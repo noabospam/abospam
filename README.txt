@@ -26,10 +26,10 @@ maintained here.
 This file updates the ban_list of a specific list with help of
 mailman's withlist command.
 
-Copy it to a location in sys.path, mailman's bin directory seems to be a
-reasonable place, at least on Debian 8 "Jessie" this should work:
+"Bring" it into a location in sys.path, mailman's bin directory seems to be
+a reasonable place, at least on Debian 8 "Jessie" this should work:
 
-  cp update_banlist.py /usr/lib/mailman/bin/
+  ln -s $(pwd)/update_banlist.py /usr/lib/mailman/bin/
 
 After this you can start it via withlist:
 
